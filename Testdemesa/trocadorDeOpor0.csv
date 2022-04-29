@@ -1,0 +1,5 @@
+texto;i;"i < x.length ";"if(x[i].toLowerCase() == ""o""";return
+'';0;true;true;-
+"""0""";1;true;false;-
+"""0a""";2;true;false;-
+"""0au""";3;false;-;"""0au"""

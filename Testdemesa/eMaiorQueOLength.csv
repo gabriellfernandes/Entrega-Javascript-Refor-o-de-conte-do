@@ -1,0 +1,4 @@
+soma,i,i < x.length,if(soma > x.length)
+0,0,true,-
+1,1,true,-
+3,2,false,true

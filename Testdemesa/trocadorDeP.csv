@@ -1,0 +1,5 @@
+texto,i,i < x.length,"if(x[i] == ""p"")",else,return
+"""""",0,true,true,false,-
+"""P""",1,true,false,true,-
+"""Pa""",2,true,false,true,-
+"""Par""",3,false,-,-,"""Par"""

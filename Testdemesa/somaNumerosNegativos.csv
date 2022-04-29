@@ -1,0 +1,4 @@
+numeros,soma,i,i < numero.length,return
+"[-3,-30]",0,0,true,-
+"[-3,-30]",-3,1,true,-
+"[-3,-30]",-33,2,false,-33

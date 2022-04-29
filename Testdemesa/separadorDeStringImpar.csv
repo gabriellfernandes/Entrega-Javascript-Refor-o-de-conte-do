@@ -1,0 +1,4 @@
+array;i;i < x.length;if(x[i].length % 2 == 1);Return
+[];0;true;false;-
+[];1;true;true;-
+"[""a""]";2;false;-;"[""a""]"

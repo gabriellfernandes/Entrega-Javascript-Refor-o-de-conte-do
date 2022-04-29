@@ -1,0 +1,7 @@
+array,mediaa,soma,o,o < x.length,p,p < x.length,if(x[p] > mediaa),return
+[],0,0,0,true,-,-,-,-
+[],0,4,1,true,-,-,-,-
+[],0,6,2,false,-,-,-,-
+[],3,6,3,false,0,true,true,-
+[4],3,6,4,false,1,true,false,-
+[4],3,6,5,false,2,false,-,[6]

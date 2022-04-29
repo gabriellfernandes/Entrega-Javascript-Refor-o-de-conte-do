@@ -1,0 +1,4 @@
+pares,i,i < numero.length,if(i % 2 == 0),return
+[],0,true,false,-
+[],1,true,true,-
+[2],2,false,-,[2]

@@ -1,0 +1,5 @@
+numeros;i;i < x.lenght;"if(x[i].toLowerCase() == ""a"")"
+0;0;true;true
+1;1;true;false
+1;2;true;true
+2;3;false;-
